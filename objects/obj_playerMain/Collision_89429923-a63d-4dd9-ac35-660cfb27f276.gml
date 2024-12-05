@@ -1,0 +1,2 @@
+global.tailsHiddenClear = 1;
+

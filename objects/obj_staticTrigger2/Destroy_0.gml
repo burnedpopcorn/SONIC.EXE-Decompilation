@@ -1,0 +1,2 @@
+createStatic(60);
+
